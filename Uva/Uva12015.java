@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author SolverX
  */
-class Main {
+public class Uva12015 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
