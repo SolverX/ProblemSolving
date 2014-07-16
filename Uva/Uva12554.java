@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
  *
  * @author SolverX
  */
-class Main {
+public class Uva12554 {
     public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);
