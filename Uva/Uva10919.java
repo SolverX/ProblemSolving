@@ -11,8 +11,7 @@ import java.util.Scanner;
  *
  * @author SolverX
  */
-//public class Uva10919 {
-class Main {
+public class Uva10919 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
